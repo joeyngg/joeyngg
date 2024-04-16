@@ -30,6 +30,6 @@ Here are some of the projects I've been working on:
 Feel free to explore my repositories for more projects!
 
 ## Get in Touch
-- LinkedIn: [Joey Ng (https://www.linkedin.com/in/joeyngbusiness/)]
+- LinkedIn: [https://www.linkedin.com/in/joeyngbusiness/]
 - Email: [joey0508ng@gmail.com]
 
