@@ -24,7 +24,7 @@ I'm a passionate Computer Science student from University of Nebraska-Lincoln. I
 Here are some of the projects I've been working on:
 
 - [G8 E-commerce]: A fashion clothing website using Next.js.
-- [ZenSurf Chrome Extension]: A Chrome Extension aimed to reduce anxiety and stress for users.
+- [ZenSurf Chrome Extension](https://github.com/The-Struggle-Bus/ZenSurf): A Chrome Extension aimed to reduce anxiety and stress for users.
 - [Sales System]: A Java based sales management system.
 
 Feel free to explore my repositories for more projects!
