@@ -23,7 +23,7 @@ I'm a passionate Computer Science student from University of Nebraska-Lincoln. I
 ## My Projects
 Here are some of the projects I've been working on:
 
-- [G8 E-commerce]: A fashion clothing website using Next.js.
+- [G8 E-commerce](https://github.com/CSCE361-Capstone-Project/E-Commerce): A fashion clothing website using Next.js.
 - [ZenSurf Chrome Extension](https://github.com/The-Struggle-Bus/ZenSurf): A Chrome Extension aimed to reduce anxiety and stress for users.
 - [Even Steven Beats the Odd](https://github.com/joeyngg/CornHacks2024): A pygame with data structure and algorithm.
 
