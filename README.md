@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Welcome to Joey Ng's GitHub Profile!
 
 ## About Me
-I'm a passionate Computer Science student based in Lincoln, Nebraska. I love to overcome challenging problems, and I'm constantly exploring new technologies.
+I'm a passionate Computer Science student from University of Nebraska-Lincoln. I love to solve challenging problems, and I'm constantly exploring new technologies.
 
 ## My Projects
 Here are some of the projects I've been working on:
